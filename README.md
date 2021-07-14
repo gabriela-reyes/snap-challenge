@@ -1,1 +1,1 @@
-# snap-project
+# snap-challenge
