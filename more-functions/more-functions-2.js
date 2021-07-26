@@ -13,4 +13,4 @@ const factor = function (number){
 
 }
 
-console.log(factor(29))
+console.log(factor(12))
